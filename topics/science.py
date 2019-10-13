@@ -18,11 +18,11 @@ questions = {
     "answer": "d",
     "more_info": "https://en.wikipedia.org/wiki/Central_Rice_Research_Institute",
     "user_response": None,
-  }
-  4: {
-    "question": "In which year ISRO was founded?\n(a)1969\n(b)1972\n(c)1968\n(d)1970\n",
-    "answer": "a",
-    "more_info": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation",
+  },
+  5: {
+    "question": "Who invented Java?\n(a)Dennis Ritchie\n(b)Bill Joy\n(c)James Gosling\n(d)Guido van Rossum\n",
+    "answer": "b",
+    "more_info": "http://www.computinghistory.org.uk/det/1793/James-Gosling/",
     "user_response": None,
   }
 }
