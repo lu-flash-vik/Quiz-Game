@@ -36,4 +36,11 @@ questions = {
     "more_info": "http://www.computinghistory.org.uk/det/1793/James-Gosling/",
     "user_response": None,
   }
-}
+  
+}, 
+  5: {
+    "question": "Who invented Java?\n(a)Dennis Ritchie\n(b)Bill Joy\n(c)James Gosling\n(d)Guido van Rossum\n",
+    "answer": "b",
+    "more_info": "http://www.computinghistory.org.uk/det/1793/James-Gosling/",
+    "user_response": None,
+  }
