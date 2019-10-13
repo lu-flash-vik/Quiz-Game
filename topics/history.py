@@ -30,5 +30,12 @@ questions = {
     "answer": "a",
     "more_info": "http://kea.kar.nic.in/vikasana/history/e2_answers.pdf",
     "user_response": None,
+  },
+  6: {
+    "question": "In which year the Second World War begin? \n(a) 1939\n(b) 1938\n(c) 1945\n(d) 1944\n",
+    "answer": "a",
+    "more_info": "https://g.co/kgs/YyJ8tj",
+    "user_response": None,
   }
+  
 }
